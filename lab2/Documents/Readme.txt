@@ -1,0 +1,1 @@
+Plik tekstowy tłumaczący każdy krok
